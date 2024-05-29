@@ -15,11 +15,11 @@ OWNER_USERNAME = getenv("OWNER_USERNAME", "I_RITESH_I")
 
 # Random Start Images
 IMG = [
-    "https://telegra.ph/file/f792be2c53ed1f54aa84a.jpg"
-    "https://telegra.ph/file/13a1a6909216332c04b8e.jpg"
-    "https://telegra.ph/file/9e3a13a651cbe877688ed.jpg"
-    "https://telegra.ph/file/bec929d7f6c02064b6556.jpg"
-    "https://telegra.ph/file/0db9f355e19331ea55a86.jpg"
+    "https://telegra.ph/file/f792be2c53ed1f54aa84a.jpg" ,
+    "https://telegra.ph/file/13a1a6909216332c04b8e.jpg" ,
+    "https://telegra.ph/file/9e3a13a651cbe877688ed.jpg" ,
+    "https://telegra.ph/file/bec929d7f6c02064b6556.jpg" ,
+    "https://telegra.ph/file/0db9f355e19331ea55a86.jpg" ,
 
 "https://telegra.ph/file/e80bc713c5705b0f0cfa4.jpg"
 ]
