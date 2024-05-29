@@ -23,7 +23,7 @@ IMG = [
 
 ]
 
-
+Ritesh = ["https://telegra.ph/file/35e98d5ffb52e4a4d4cfc.mp4"]
 # Random Stickers
 STICKER = [
     "CAACAgQAAxkBAAEMNvJmVvVuDEOcTdh0uwsIohW5jiyfPQACdgIAAuG77RsBLCz6Rs3v2jUE",
