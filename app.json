@@ -1,7 +1,7 @@
 {
-  "name": "Mickey Bot",
+  "name": "Ritesh ChatBot",
   "description": "A telegram bot",
-  "logo": "https://te.legra.ph/file/dc32c85de4f1ad9b3456b.jpg",
+  "logo": "https://camo.githubusercontent.com/6ea27ee95ad59bcbf9750be609d6ff675ee1d5dc1da63075cf398cb06e21619b/68747470733a2f2f74656c656772612e70682f66696c652f6538306263373133633537303562306630636661342e6a7067",
   "keywords": [
     "Chatbot",
     "mongodb",
@@ -11,7 +11,7 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/Devarora-0981/Mickey",
+  "repository": "https://github.com/JaishreeRamTG/RiteshChatBot",
   "env": {
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps.",
