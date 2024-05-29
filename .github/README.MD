@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 ᴍɪᴄᴋᴇʏ-ᴍᴏᴜsᴇ 」──
+    ──「 ʀɪᴛᴇsʜ x ᴅᴇsᴛʀᴏʏᴇʀ 」──
 </h2>
 <p align="center">
   <img src="https://telegra.ph/file/e80bc713c5705b0f0cfa4.jpg">
