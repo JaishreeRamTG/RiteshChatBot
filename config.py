@@ -28,8 +28,8 @@ Ritesh = ["https://telegra.ph/file/35e98d5ffb52e4a4d4cfc.mp4"]
 # Random Stickers
 STICKER = [
     "CAACAgQAAxkBAAEMNvJmVvVuDEOcTdh0uwsIohW5jiyfPQACdgIAAuG77RsBLCz6Rs3v2jUE",
-    "CAACAgUAAxkBAAEMNvRmVvWLAcn16t4zZD7q9joJsAoaYgACmg0AAjMsuVWMzPFx1gyt9DUE",
-    "CAACAgUAAxkBAAEMNvZmVvWjvX73Y5G4EzMUnb0_931TbgACDBIAAvh_aFZiYYACczOSTjUE",
+    "CAACAgUAAxkBAAEMN55mVxseBFNJxEAoIdrBSFeB2O_vAgACPxUAAhjguFYW9ybVauQnszUE",
+    "CAACAgUAAxkBAAEMN6BmVxtY6haiJIma0h4cCOXQkYp9ywACew0AAs_IuVYmNyfYSpfWfjUE",
 ]
 
 
