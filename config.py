@@ -21,6 +21,7 @@ IMG = [
     "https://telegra.ph/file/bec929d7f6c02064b6556.jpg"
     "https://telegra.ph/file/0db9f355e19331ea55a86.jpg"
 
+"https://telegra.ph/file/e80bc713c5705b0f0cfa4.jpg"
 ]
 
 Ritesh = ["https://telegra.ph/file/35e98d5ffb52e4a4d4cfc.mp4"]
